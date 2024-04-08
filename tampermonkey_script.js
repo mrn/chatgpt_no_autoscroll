@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Fix chatgpt auto-scrolling by always adding 500px at the bottom
+// @name         ChatGPT No Auto-Scroll
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Modify the height of the last HTML element with a data-testid attribute
+// @description  Prevents ChatGPT from auto-scrolling while generating.
 // @author       jsadecki (https://www.reddit.com/r/ChatGPT/comments/173evnz/heres_a_way_to_stop_chatgpt_auto_scrolling_when/)
 // @match        https://chat.openai.com/*
 // @grant        none
