@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Modify the height of the last HTML element with a data-testid attribute
-// @author       You
+// @author       jsadecki (https://www.reddit.com/r/ChatGPT/comments/173evnz/heres_a_way_to_stop_chatgpt_auto_scrolling_when/)
 // @match        https://chat.openai.com/*
 // @grant        none
 // ==/UserScript==
